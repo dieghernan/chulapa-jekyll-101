@@ -1,5 +1,9 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-project.Rproj
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*project.Rproj
+chulapa-jekyll-101.Rproj
+_site
+.sass-cache
+Gemfile.lock

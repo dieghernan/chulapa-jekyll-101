@@ -1,9 +1,8 @@
-source 'https://rubygems.org'	
-gem 'github-pages', group: :jekyll_plugins	
+source 'https://rubygems.org'
 
-group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
-  gem 'jekyll-github-metadata'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-include-cache'
-end
+gem "chulapa-jekyll"
+
+gem "tzinfo-data"
+gem 'webrick', '~> 1.3', '>= 1.3.1'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'faraday-retry'
