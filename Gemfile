@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby ">= 2"
+
 gem "chulapa-jekyll"
 gem "jekyll", "~> 4"
 
