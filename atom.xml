@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://dieghernan.github.io/chulapa-jekyll-101/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://dieghernan.github.io/chulapa-jekyll-101" rel="alternate" type="text/html" />
-	<updated>2022-11-24T13:09:29+00:00</updated>
+	<updated>2022-11-25T08:27:02+00:00</updated>
 	<id>https://dieghernan.github.io/chulapa-jekyll-101/atom.xml</id>
 	<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
 	<subtitle>Chulapa Jekyll Theme starter pack</subtitle>
@@ -1466,7 +1466,6 @@
 		<author>
 			<name>Your Name</name></author>
 		<summary type="html">&lt;p&gt;This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration.&lt;/p&gt;
-
 </summary>
 		<category term="posts"/>
 		<category term="bootstrap"/><category term="current-theme"/><category term="header-hero"/><category term="image"/><category term="skin"/>
@@ -1551,7 +1550,6 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 
   &lt;p class=&quot;blockquote-footer&quot;&gt;From &lt;a href=&quot;https://en.wikipedia.org/wiki/Dean_Village&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
 </summary>
 		<category term="posts"/>
 		<category term="bootstrap"/><category term="downtown"/><category term="edinburgh"/><category term="kramdown"/><category term="landscape"/><category term="trips"/>
@@ -1581,7 +1579,6 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 		<author>
 			<name></name></author>
 		<summary type="html">&lt;p&gt;Urban artists can use anything as a canvas to express their art&lt;/p&gt;
-
 </summary>
 		<category term="posts"/>
 		<category term="downtown"/><category term="street"/><category term="urban art"/>
@@ -1611,7 +1608,6 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 		<author>
 			<name>Your Name</name></author>
 		<summary type="html">&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
-
 </summary>
 		<category term="posts"/>
 		
@@ -1693,7 +1689,6 @@ foo(3)
 		<author>
 			<name>Your Name</name></author>
 		<summary type="html">&lt;p&gt;You can write regular &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;take 5 minutes to learn how to write in markdown&lt;/a&gt; - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p&gt;
-
 </summary>
 		<category term="posts"/>
 		<category term="markdown"/>
@@ -1832,7 +1827,6 @@ Be all my sins remembered.&lt;/p&gt;
 		<author>
 			<name>Your Name</name></author>
 		<summary type="html">&lt;p&gt;From Wikipedia:&lt;/p&gt;
-
 </summary>
 		<category term="posts"/>
 		
